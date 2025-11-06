@@ -9,8 +9,6 @@ The analysis focuses on identifying:
 - The most preferred payment and purchase types
 - Strategic recommendations for business growth
 
-## Dataset Description
-
 ## Dataset
 
 The sales data used for analysis is available in the Google Sheet:  
